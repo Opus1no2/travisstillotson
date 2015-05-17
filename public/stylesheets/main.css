@@ -27,6 +27,10 @@ canvas{
   margin-left: -175px;
 }
 
+.content a {
+  text-decoration: none;
+}
+
 .content .name {
   padding-bottom: 30px;
 }
